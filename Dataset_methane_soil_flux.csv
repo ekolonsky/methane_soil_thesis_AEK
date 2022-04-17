@@ -1,4 +1,4 @@
-Index;Site;Point;LatitudeDegree;Latitude Minute;LongitudeDegree;Longitude Minute;DayStartDate;MonthStartDate;YearStartDate;DayEndDate;MonthEndDate;YearEndDate;Time;Flux;Error;AirT;SoilT1;DepthT1;SoilT2;DepthT2;SoilT3;DepthT3;SoilT4;DepthT4;WTL
+Index;Site;Point;LatitudeDegree;LatitudeMinute;LongitudeDegree;LongitudeMinute;DayStartDate;MonthStartDate;YearStartDate;DayEndDate;MonthEndDate;YearEndDate;Time;Flux;Error;AirT;SoilT1;DepthT1;SoilT2;DepthT2;SoilT3;DepthT3;SoilT4;DepthT4;WTL
 335;Sw_1;Sw_1_3;55;33,97667;36;21,41833;30;8;2021;30;8;2021;11:20:00;0,006;0,004;18,5;17;0;16;5;14,8;15;14,5;45;35
 336;Sw_1;Sw_1_3;55;33,97667;36;21,41833;30;8;2021;30;8;2021;12:18:40;-0,025;0,007;18,5;17;0;16;5;14,8;15;14,5;45;35
 337;Sw_1;Sw_1_3;55;33,97667;36;21,41833;30;8;2021;30;8;2021;12:20:00;0,071;0,016;18,5;17;0;16;5;14,8;15;14,5;45;35
